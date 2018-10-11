@@ -1,0 +1,32 @@
+@media only screen and (max-width: 600px){
+
+  .wrap{
+  background-color: #CB2F09;
+  max-width: 20%;
+  max-height: 10%;
+
+  }
+
+  .picture{
+  max-width: 50%;
+  max-height: 50%;
+  -moz-box-shadow: 5px 5px 5px #222;
+  -webkit-box-shadow: 5px 5px 5px #222;
+  box-shadow: 5px 5px 5px #222;
+
+  }
+
+
+  p{
+  display: block;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 11px;
+  }
+
+h5{
+font-size: 14px;
+
+}
+
+}
